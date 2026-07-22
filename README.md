@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Bangkit Sanjaya! 👋
 
 ## 🚀 About Me
-I'm a passionate web developer from Indonesia, currently studying at **Universitas Teknokrat Indonesia**.  
+I'm a passionate web developer from Indonesia, currently studying at **Politeknik Negeri Lampung**.  
 I love building web applications and exploring new technologies — from **Laravel** and **PHP** to **React** and **Gin (Go)**.  
 Always excited to learn and create something useful!
 
