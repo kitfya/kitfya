@@ -88,6 +88,7 @@ Always excited to learn and create something useful!
 
 [![Website](https://img.shields.io/badge/Website-kitfya.my.id-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kitfya.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-kitfya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitfya)
+[![Instagram](https://img.shields.io/badge/Instagram-@kitfyadev_id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kitfyadev_id)
 
 ---
 
