@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Bangkit Sanjaya! 👋
 
-<!--
-**kitfya/kitfya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate web developer from Indonesia, currently studying at **Universitas Teknokrat Indonesia**.  
+I love building web applications and exploring new technologies — from **Laravel** and **PHP** to **React** and **Gin (Go)**.  
+Always excited to learn and create something useful!
 
-Here are some ideas to get you started:
+- 🌐 Website: [kitfya.my.id](https://kitfya.my.id)
+- 📫 Reach me: [GitHub](https://github.com/kitfya)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) *(kalo pake)*
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### [kursor_nyasar](https://github.com/kitfya/kursor_nyasar)
+> A web blog application developed for NCC 2025 (National Computer Competition) at Universitas Teknokrat Indonesia.
+
+![PHP](https://img.shields.io/badge/PHP-63%25-777BB4)
+![Blade](https://img.shields.io/badge/Blade-36%25-FF2D20)
+
+[🔗 Demo](https://kursor-nyasar.kitfya.web.id/) | [📦 Repo](https://github.com/kitfya/kursor_nyasar)
+
+---
+
+### [kitfya_todo](https://github.com/kitfya/kitfya_todo)
+> A web-based task management application with registration, login, and full CRUD features. Built with PHP Native, MySQL, HTML, CSS, and JavaScript.
+
+[📦 Repo](https://github.com/kitfya/kitfya_todo)
+
+---
+
+### [kitfya_porto_admin](https://github.com/kitfya/kitfya_porto_admin)
+> Admin panel for portfolio website.
+
+![Blade](https://img.shields.io/badge/Blade-62%25-FF2D20)
+![PHP](https://img.shields.io/badge/PHP-38%25-777BB4)
+
+[📦 Repo](https://github.com/kitfya/kitfya_porto_admin)
+
+---
+
+### [kitfya_absensiqr](https://github.com/kitfya/kitfya_absensiqr)
+> Attendance system with QR code integration built with Laravel.
+
+[📦 Repo](https://github.com/kitfya/kitfya_absensiqr)
+
+---
+
+### [kitfya_edu](https://github.com/kitfya/kitfya_edu)
+> Education/learning platform project.
+
+![PHP](https://img.shields.io/badge/PHP-83%25-777BB4)
+![CSS](https://img.shields.io/badge/CSS-12%25-1572B6)
+
+[📦 Repo](https://github.com/kitfya/kitfya_edu)
+
+---
+
+## 📊 GitHub Stats
+
+![kitfya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitfya&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitfya&layout=compact&theme=radical&hide=html,css,json)
+
+---
+
+## 🤝 Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-kitfya.my.id-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kitfya.my.id)
+[![GitHub](https://img.shields.io/badge/GitHub-kitfya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitfya)
+
+---
+
+⭐️ From [kitfya](https://github.com/kitfya)
