@@ -80,7 +80,7 @@ Always excited to learn and create something useful!
 
 ## 📊 GitHub Stats
 
-![kitfya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitfya&show_icons=true&theme=radical)
+![kitfya's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kitfya)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitfya&layout=compact&theme=radical&hide=html,css,json)
 
