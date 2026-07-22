@@ -32,58 +32,6 @@ Always excited to learn and create something useful!
 
 ---
 
-## 📂 Featured Projects
-
-### [kursor_nyasar](https://github.com/kitfya/kursor_nyasar)
-> A web blog application developed for NCC 2025 (National Computer Competition) at Universitas Teknokrat Indonesia.
-
-![PHP](https://img.shields.io/badge/PHP-63%25-777BB4)
-![Blade](https://img.shields.io/badge/Blade-36%25-FF2D20)
-
-[🔗 Demo](https://kursor-nyasar.kitfya.web.id/) | [📦 Repo](https://github.com/kitfya/kursor_nyasar)
-
----
-
-### [kitfya_todo](https://github.com/kitfya/kitfya_todo)
-> A web-based task management application with registration, login, and full CRUD features. Built with PHP Native, MySQL, HTML, CSS, and JavaScript.
-
-[📦 Repo](https://github.com/kitfya/kitfya_todo)
-
----
-
-### [kitfya_porto_admin](https://github.com/kitfya/kitfya_porto_admin)
-> Admin panel for portfolio website.
-
-![Blade](https://img.shields.io/badge/Blade-62%25-FF2D20)
-![PHP](https://img.shields.io/badge/PHP-38%25-777BB4)
-
-[📦 Repo](https://github.com/kitfya/kitfya_porto_admin)
-
----
-
-### [kitfya_absensiqr](https://github.com/kitfya/kitfya_absensiqr)
-> Attendance system with QR code integration built with Laravel.
-
-[📦 Repo](https://github.com/kitfya/kitfya_absensiqr)
-
----
-
-### [kitfya_edu](https://github.com/kitfya/kitfya_edu)
-> Education/learning platform project.
-
-![PHP](https://img.shields.io/badge/PHP-83%25-777BB4)
-![CSS](https://img.shields.io/badge/CSS-12%25-1572B6)
-
-[📦 Repo](https://github.com/kitfya/kitfya_edu)
-
----
-
-## 📊 GitHub Stats
-
-![kitfya's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=kitfya)
-
----
-
 ## 🤝 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-kitfya.my.id-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kitfya.my.id)
